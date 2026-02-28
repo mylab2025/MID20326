@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "GEN PURP DIODE 1KV 1A SMA",
+        "PN": "US1M-13-F",
+        "MF": "Diodes Incorporated"
+      },
+      "MID": "MID20326",
+      "MD": "US1M-13-F is  ULTRA-FAST 1A RECTIFIER or general purpose diode up to 1000V.",
+      "MT": "",
+      "MQNT": 19,
+      "MCost": 22.74,
+      "MQATG": "#CLASS_0",
+      "ML": "120",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20326%2Fmain%2Fds16008_US1M-13-F.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20326/main/IMG_20260228_110645.jpg"
+      ]
+    }
+  ]
+}
